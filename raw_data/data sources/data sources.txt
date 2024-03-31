@@ -1,1 +1,8 @@
+ covid api-https://api-ninjas.com/api/covid19 
+ 
  population-  https://www.rgd.gov.lk/web/index.php?option=com_content&view=article&id=136&Itemid=294&lang=si#%E0%B6%AF%E0%B6%BB%E0%B7%8A%E0%B7%81%E0%B6%9A
+ 
+ open portal - https://data.gov.lk/search/field_tags/population-33?query=&sort_by=changed&sort_order=DESC&page=0%2C0
+ 
+ 
+ https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/
