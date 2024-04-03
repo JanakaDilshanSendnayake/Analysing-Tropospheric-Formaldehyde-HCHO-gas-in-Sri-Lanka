@@ -6,3 +6,7 @@
  
  
  https://www.cbsl.gov.lk/en/publications/economic-and-financial-reports/annual-reports/
+ 
+ NASA- https://power.larc.nasa.gov/data-access-viewer/
+ 
+ Atmospheric api - https://api.v2.emissions-api.org/ui/#/default/emissionsapi.web.get_statistics
