@@ -10,3 +10,5 @@
  NASA- https://power.larc.nasa.gov/data-access-viewer/
  
  Atmospheric api - https://api.v2.emissions-api.org/ui/#/default/emissionsapi.web.get_statistics
+ 
+ https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_CO
